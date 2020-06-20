@@ -8,8 +8,10 @@ public class FirstClass {
 		
 		
 		
-		System.out.println("2. kez conflict yapmak istiyoruz");
 		
+	
+		System.out.println("we are again the conflict");
+			
 		System.out.println("first commit from remote repository");		
 		
 
